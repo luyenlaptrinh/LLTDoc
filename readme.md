@@ -17,4 +17,4 @@ Hệ thống LLT- Luyện lập trình là hệ thống được biên tập cod
 - ....
 
 ## LLT
-Do hệ thống LLT- Luyện lập trình vẫn đang trong thời gian thử nghiệm và tiếp tục biên tập nên chưa công khai các repostore. LLT- Luyện lập trình sẽ công bố công khai khi hệ thống chạy ổn định. 
+Do hệ thống LLT- Luyện lập trình vẫn đang trong thời gian thử nghiệm và tiếp tục biên tập nên chưa công khai các repo. LLT- Luyện lập trình sẽ công bố công khai khi hệ thống chạy ổn định. 
