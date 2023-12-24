@@ -16,4 +16,5 @@ Hệ thống LLT- Luyện lập trình là hệ thống được biên tập cod
 - Hướng dẫn cài đặt của [VNOJ](https://vnoi-admin.github.io/vnoj-docs/#/site/installation)
 - ....
 
-
+## LLT
+Do hệ thống LLT- Luyện lập trình vẫn đang trong thời gian thử nghiệm và tiếp tục biên tập nên chưa công khai các repostore. LLT- Luyện lập trình sẽ công bố công khai khi hệ thống chạy ổn định. 
