@@ -1,0 +1,23 @@
+Cho 2 số nguyên ~A~ và ~B~.
+
+## Yêu cầu
+
+Hãy tính ~A~ + ~B~.
+
+## Dữ liệu vào
+
+Tệp ~aplusb.in~ gồm 1 dòng chứa 2 số nguyên ~A~ và ~B~ (~1 \le A, B \le 100\,000~) cách nhau bởi dấu cách.
+
+## Kết quả ra
+
+Tệp ~aplusb.out~ chứa giá trị duy nhất là ~A~ + ~B~.
+
+## Ví dụ
+
+~aplusb.in~
+
+    3 4
+
+~aplusb.out~
+
+    7
